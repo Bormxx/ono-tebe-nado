@@ -1,0 +1,48 @@
+.header {
+    margin: 92px 49px 0px 51px;
+    display: flex;
+    height: 109px;
+    justify-content: space-between;
+    background: url(../images/logo-black.svg) 50% no-repeat;
+    background-size: 137px;
+}
+
+.menu-text {
+    display: flex;
+    height: 109px;
+    color: black;
+    font-family: 'Raleway';
+    font-size: 18px;
+    align-items: center;
+}
+
+.dota {
+    width: 7px;
+    height: 7px;
+    margin: 2px 13px 0px 13px;
+}
+
+.loty {
+    border-bottom: 1px solid black;
+}
+
+.address {
+    color: black;
+    font-family: 'Raleway';
+    font-size: 18px;
+    width: 240px;
+    padding-top: 5px;
+}
+
+.contacts {
+    display: inline-flex;
+    align-items: flex-end;
+    border-bottom: 1px solid black;
+    height: 24px;
+}
+
+.location {
+    display: inline-flex;
+    align-items: flex-end;
+    height: 24px;
+}

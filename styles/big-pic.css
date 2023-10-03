@@ -1,0 +1,82 @@
+.big-pic {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 91px;
+    max-width: 1440px;
+    min-height: 757px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/cover.jpg) 1440px 757px no-repeat;
+    background-position: 0px -15px;
+    background-size: cover;
+}
+
+.ono-tebe-nado {
+    display: flex;
+    color: white;
+    font-family: 'Raleway';
+    font-weight: bold;
+    font-size: 100px;
+    letter-spacing: 30px;
+}
+
+.on-letters {
+    margin-top: 165px;
+    margin-left: 50px;
+}
+
+.o-letter {
+    margin-left: 30px;    
+}
+
+.teb-letters {
+    margin-top: 292px;
+    margin-left: 110px;
+}
+
+.e-letter {
+    margin-left: 30px;
+}
+
+.n-letters {
+    margin-top: 412px;
+    margin-left: 70px;
+}
+
+.ado-letter {
+    margin-left: 30px;
+}
+
+.slogan {
+    display: inline-flex;
+    margin: 77px 50px 0 auto;
+    height: 52px;
+    color: rgb(255, 255, 255);
+    font-family: 'Raleway';
+    font-size: 22px;
+    line-height: 52px;
+}
+
+.slogan-text {
+    margin-right: 78px;
+}
+
+.auction {
+    word-spacing: 17px;
+}
+
+.nobody {
+    word-spacing: 17px;
+}
+
+.trust {
+    word-spacing: 22px;
+}
+
+.button-bit {
+    width: 257px;
+    padding: 0 30px;
+    color: rgb(255, 255, 255);
+    font-family: 'Raleway';
+    font-size: 22px;
+    background-color: transparent;
+    line-height: 48px;
+}
