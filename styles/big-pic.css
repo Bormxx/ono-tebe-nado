@@ -66,6 +66,7 @@ main cover.cover {
   width: 257px;
   color: white;
   font-size: 22px;
+  text-transform: uppercase;
   background-color: transparent;
   border: 1px solid white;
 }

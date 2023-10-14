@@ -15,24 +15,26 @@
   margin-top: -3px;
 }
 
-ul {
+.header-nav {
   display: inline-flex;
-}
-
-li {
-  list-style-type: circle;
   font-size: 18px;
   text-transform: lowercase;
+}
+
+.header-link {
+  list-style-type: circle;
   margin-left: 33px;
   border-bottom: 1px solid black;
 }
 
-li.li-left {
+.header-link-left {
+  margin-left: 33px;
+  border-bottom: 1px solid black;
   list-style-type: none;
   margin-left: 0;
 }
 
-li.li-noborder {
+.header-link-active {
   border: none;
 }
 
