@@ -1,4 +1,4 @@
-main cover.cover {
+main .cover {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
